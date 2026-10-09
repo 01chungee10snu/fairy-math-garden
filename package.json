@@ -1,0 +1,1 @@
+{"name":"fairy-math-garden","version":"1.0.0","private":true,"type":"module","scripts":{"start":"python3 -m http.server 4173 --bind 127.0.0.1","check":"node --check app.js && node --check questions.js && node scripts/check-content.mjs"}}
